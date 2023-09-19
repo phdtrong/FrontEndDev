@@ -1,0 +1,7 @@
+<br/> self closing tag
+br = bracket
+Block: div, h, p
+Inline: button, a, span, <b>Bold
+div: group elem together
+ul: un-ordered list
+ol: ordered list
